@@ -50,7 +50,7 @@ export default function HeroSection() {
             </Link>
 
             <Link
-              href="#contact"
+              href="#about"
               className="flex items-center gap-2 bg-transparent border border-gray-800 hover:border-gray-700 hover:bg-gray-900/50 text-gray-200 font-medium px-6 py-3 rounded-lg transition-all duration-200"
             >
               <span>Contact Me</span>
@@ -77,7 +77,7 @@ export default function HeroSection() {
               <FaLinkedinIn />
             </a>
             <a
-              href="shawkielkady7@@gmail.com"
+              href="mailto:shawkielkady7@gmail.com"
               className="hover:text-blue-500 transition-colors"
             >
               <FaEnvelope />
